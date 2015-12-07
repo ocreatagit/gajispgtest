@@ -61,7 +61,7 @@
 
                         <div class="form-group">
                             <div class="col-sm-offset-2 col-sm-10">
-                                
+                                <script>console.log("test");</script>
                             </div>
                         </div>
                     </form><br>
